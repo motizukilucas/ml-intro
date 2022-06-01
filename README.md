@@ -13,6 +13,8 @@ Input > Hidden > Output
 
 **OBS**: neuro network is an open area of research, so change is constant
 
+*every part of the neuro network depends on the quality of the inputs*
+
 ## Examples
 * Path finding AI
   > place a lot of indicators on the map
